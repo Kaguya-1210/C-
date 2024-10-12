@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\bin\Debug\net8.0\字符串格式化输出.exe
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\bin\Debug\net8.0\字符串格式化输出.deps.json
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\bin\Debug\net8.0\字符串格式化输出.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\bin\Debug\net8.0\字符串格式化输出.dll
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\bin\Debug\net8.0\字符串格式化输出.pdb
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.dll
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\refint\字符串格式化输出.dll
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.pdb
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\字符串格式化输出.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\字符串格式化输出\obj\Debug\net8.0\ref\字符串格式化输出.dll

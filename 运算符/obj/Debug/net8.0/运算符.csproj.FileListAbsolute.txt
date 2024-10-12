@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\运算符\bin\Debug\net8.0\运算符.exe
+D:\Kaguya\AdofaiProjects\C\运算符\bin\Debug\net8.0\运算符.deps.json
+D:\Kaguya\AdofaiProjects\C\运算符\bin\Debug\net8.0\运算符.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\运算符\bin\Debug\net8.0\运算符.dll
+D:\Kaguya\AdofaiProjects\C\运算符\bin\Debug\net8.0\运算符.pdb
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.dll
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\refint\运算符.dll
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.pdb
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\运算符.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\运算符\obj\Debug\net8.0\ref\运算符.dll

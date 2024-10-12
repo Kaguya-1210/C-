@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\bin\Debug\net8.0\数据类型与变量.exe
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\bin\Debug\net8.0\数据类型与变量.deps.json
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\bin\Debug\net8.0\数据类型与变量.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\bin\Debug\net8.0\数据类型与变量.dll
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\bin\Debug\net8.0\数据类型与变量.pdb
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.dll
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\refint\数据类型与变量.dll
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.pdb
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\数据类型与变量.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\数据类型与变量\obj\Debug\net8.0\ref\数据类型与变量.dll

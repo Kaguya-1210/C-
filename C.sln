@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C", "C\C.csproj", "{FB8F715C-76E0-402A-AEA5-560D91A63816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{15ED1692-CB4F-41F2-9856-D0A81F380EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据类型与变量", "数据类型与变量\数据类型与变量.csproj", "{7512C290-21A1-49D0-9CB6-D3AAA3A8D99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "运算符", "运算符\运算符.csproj", "{C4385A87-B8F7-4933-BCA6-1D31F8B8BEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串格式化输出", "字符串格式化输出\字符串格式化输出.csproj", "{ADD39A9B-1E85-4CD9-BD61-A80626795F14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,21 @@ Global
 		{FB8F715C-76E0-402A-AEA5-560D91A63816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8F715C-76E0-402A-AEA5-560D91A63816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8F715C-76E0-402A-AEA5-560D91A63816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ED1692-CB4F-41F2-9856-D0A81F380EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED1692-CB4F-41F2-9856-D0A81F380EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED1692-CB4F-41F2-9856-D0A81F380EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED1692-CB4F-41F2-9856-D0A81F380EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7512C290-21A1-49D0-9CB6-D3AAA3A8D99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7512C290-21A1-49D0-9CB6-D3AAA3A8D99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7512C290-21A1-49D0-9CB6-D3AAA3A8D99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7512C290-21A1-49D0-9CB6-D3AAA3A8D99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4385A87-B8F7-4933-BCA6-1D31F8B8BEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4385A87-B8F7-4933-BCA6-1D31F8B8BEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4385A87-B8F7-4933-BCA6-1D31F8B8BEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4385A87-B8F7-4933-BCA6-1D31F8B8BEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD39A9B-1E85-4CD9-BD61-A80626795F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD39A9B-1E85-4CD9-BD61-A80626795F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD39A9B-1E85-4CD9-BD61-A80626795F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD39A9B-1E85-4CD9-BD61-A80626795F14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
