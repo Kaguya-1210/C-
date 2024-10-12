@@ -8,7 +8,6 @@ class MyClass
         String name = Console.ReadLine();
         Console.Write("请输入密码:");
         String pass = Console.ReadLine();
-        Console.WriteLine("您的用户名是:" + name + "," + "密码是:" + pass);
-        
+        Console.WriteLine("您的用户名是:{0},密码是:{1}", name, pass);
     }
 }
