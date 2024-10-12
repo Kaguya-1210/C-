@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("数据类型与变量")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a37435f585edb9469ba79ac3aa3d3491753611c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("数据类型与变量")]
 [assembly: System.Reflection.AssemblyTitleAttribute("数据类型与变量")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
