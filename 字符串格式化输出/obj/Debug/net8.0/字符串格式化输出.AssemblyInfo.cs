@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("字符串格式化输出")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c187d45d449000585a99f401ebf2bc61188d36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("字符串格式化输出")]
 [assembly: System.Reflection.AssemblyTitleAttribute("字符串格式化输出")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

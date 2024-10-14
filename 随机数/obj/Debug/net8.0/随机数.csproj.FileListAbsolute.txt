@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\随机数\bin\Debug\net8.0\随机数.exe
+D:\Kaguya\AdofaiProjects\C\随机数\bin\Debug\net8.0\随机数.deps.json
+D:\Kaguya\AdofaiProjects\C\随机数\bin\Debug\net8.0\随机数.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\随机数\bin\Debug\net8.0\随机数.dll
+D:\Kaguya\AdofaiProjects\C\随机数\bin\Debug\net8.0\随机数.pdb
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.dll
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\refint\随机数.dll
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.pdb
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\随机数.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\随机数\obj\Debug\net8.0\ref\随机数.dll

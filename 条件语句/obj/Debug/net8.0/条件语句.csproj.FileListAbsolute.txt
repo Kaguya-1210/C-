@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\条件语句\bin\Debug\net8.0\条件语句.exe
+D:\Kaguya\AdofaiProjects\C\条件语句\bin\Debug\net8.0\条件语句.deps.json
+D:\Kaguya\AdofaiProjects\C\条件语句\bin\Debug\net8.0\条件语句.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\条件语句\bin\Debug\net8.0\条件语句.dll
+D:\Kaguya\AdofaiProjects\C\条件语句\bin\Debug\net8.0\条件语句.pdb
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.dll
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\refint\条件语句.dll
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.pdb
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\条件语句.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\条件语句\obj\Debug\net8.0\ref\条件语句.dll
