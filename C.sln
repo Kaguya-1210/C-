@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "随机数", "随机数\随�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小案例", "小案例\小案例.csproj", "{77D16559-BD72-4A98-BC85-A7FF05CCB19E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试Key键GUI", "测试Key键GUI\测试Key键GUI.csproj", "{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
