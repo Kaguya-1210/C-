@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\枚举\bin\Debug\net8.0\枚举.exe
+D:\Kaguya\AdofaiProjects\C\枚举\bin\Debug\net8.0\枚举.deps.json
+D:\Kaguya\AdofaiProjects\C\枚举\bin\Debug\net8.0\枚举.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\枚举\bin\Debug\net8.0\枚举.dll
+D:\Kaguya\AdofaiProjects\C\枚举\bin\Debug\net8.0\枚举.pdb
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.dll
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\refint\枚举.dll
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.pdb
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\枚举.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\枚举\obj\Debug\net8.0\ref\枚举.dll

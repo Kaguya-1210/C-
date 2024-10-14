@@ -18,6 +18,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小案例", "小案例\小�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试Key键GUI", "测试Key键GUI\测试Key键GUI.csproj", "{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举", "枚举\枚举.csproj", "{5D0127F1-B6A9-4E3E-8859-05DFE19FE685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "结构体", "结构体\结构体.csproj", "{6F78CD30-CC65-4438-961B-9DB63FBA1922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组练习", "数组练习\数组练习.csproj", "{60773B4B-0B0F-4B78-9206-0F651A3A0AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +66,17 @@ Global
 		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7D126AE-BD16-41E3-AE5B-9DE6E732E968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0127F1-B6A9-4E3E-8859-05DFE19FE685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0127F1-B6A9-4E3E-8859-05DFE19FE685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0127F1-B6A9-4E3E-8859-05DFE19FE685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0127F1-B6A9-4E3E-8859-05DFE19FE685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F78CD30-CC65-4438-961B-9DB63FBA1922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F78CD30-CC65-4438-961B-9DB63FBA1922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F78CD30-CC65-4438-961B-9DB63FBA1922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F78CD30-CC65-4438-961B-9DB63FBA1922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60773B4B-0B0F-4B78-9206-0F651A3A0AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60773B4B-0B0F-4B78-9206-0F651A3A0AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60773B4B-0B0F-4B78-9206-0F651A3A0AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60773B4B-0B0F-4B78-9206-0F651A3A0AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
