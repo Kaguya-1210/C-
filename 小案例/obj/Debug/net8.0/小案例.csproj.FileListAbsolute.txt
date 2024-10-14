@@ -1,0 +1,15 @@
+D:\Kaguya\AdofaiProjects\C\小案例\bin\Debug\net8.0\小案例.exe
+D:\Kaguya\AdofaiProjects\C\小案例\bin\Debug\net8.0\小案例.deps.json
+D:\Kaguya\AdofaiProjects\C\小案例\bin\Debug\net8.0\小案例.runtimeconfig.json
+D:\Kaguya\AdofaiProjects\C\小案例\bin\Debug\net8.0\小案例.dll
+D:\Kaguya\AdofaiProjects\C\小案例\bin\Debug\net8.0\小案例.pdb
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.AssemblyInfoInputs.cache
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.AssemblyInfo.cs
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.csproj.CoreCompileInputs.cache
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.sourcelink.json
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.dll
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\refint\小案例.dll
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.pdb
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\小案例.genruntimeconfig.cache
+D:\Kaguya\AdofaiProjects\C\小案例\obj\Debug\net8.0\ref\小案例.dll

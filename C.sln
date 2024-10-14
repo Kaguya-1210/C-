@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "条件语句", "条件语�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "随机数", "随机数\随机数.csproj", "{9DCBDB16-1439-441E-BEDA-84FF2D8DFC33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小案例", "小案例\小案例.csproj", "{77D16559-BD72-4A98-BC85-A7FF05CCB19E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{9DCBDB16-1439-441E-BEDA-84FF2D8DFC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DCBDB16-1439-441E-BEDA-84FF2D8DFC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DCBDB16-1439-441E-BEDA-84FF2D8DFC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D16559-BD72-4A98-BC85-A7FF05CCB19E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
