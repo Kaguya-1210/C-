@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("枚举")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("面向对象练习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("枚举")]
-[assembly: System.Reflection.AssemblyTitleAttribute("枚举")]
+[assembly: System.Reflection.AssemblyProductAttribute("面向对象练习")]
+[assembly: System.Reflection.AssemblyTitleAttribute("面向对象练习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
